@@ -1,0 +1,19 @@
+{   
+   "name": "pf1-untamed",   
+   "title": "PF Untamed class",   
+   "description": "PF Untamed class",
+   "author": "GhostShotIV",
+   "version": "1.0.0",
+   "minimumCoreVersion": "9",
+   "compatibleCoreVersion":"10",
+   "packs": [
+    {
+      "name": "pf1-untamed",
+      "label": "pf1-untamed",
+      "system": "pf1",
+      "path": "packs/pf1-untamed.db",
+      "entity": "Item",
+      "module": "pf1-untamed"
+    }
+  ]
+ }
