@@ -1,12 +1,18 @@
 {   
-   "name": "pf1-untamed",   
-   "title": "PF Untamed class",   
-   "description": "PF Untamed class",
-   "author": "GhostShotIV",
-   "version": "1.0.0",
-   "minimumCoreVersion": "9",
-   "compatibleCoreVersion":"10",
-   "packs": [
+  "id": "pf1-untamed",
+  "title": "PF Untamed class",   
+  "description": "PF Untamed class",
+  "authors": [
+    {
+    "name": "GhostShotIV"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "packs": [
     {
       "name": "pf1-untamed",
       "label": "pf1-untamed",
@@ -16,4 +22,4 @@
       "module": "pf1-untamed"
     }
   ]
- }
+}
