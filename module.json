@@ -14,7 +14,7 @@
   },
   "readme": "README.md",
 	"license": "UNLICENSED",
-  "manifest": "https://raw.githubusercontent.com/GhostShotIV/pf1-untamed/00ad8bd507c85702aea3a07ead1347453a2d728f/module.json",
+  "manifest": "https://raw.githubusercontent.com/GhostShotIV/pf1-untamed/master/module.json",
   "packs": [
     {
       "name": "pf1-untamed",
