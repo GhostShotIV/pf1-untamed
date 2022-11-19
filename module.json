@@ -7,11 +7,14 @@
     "name": "GhostShotIV"
     }
     ],
-  "version": "1.0.0",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
   },
+  "readme": "README.md",
+	"license": "UNLICENSED",
+  "manifest": "https://raw.githubusercontent.com/GhostShotIV/pf1-untamed/00ad8bd507c85702aea3a07ead1347453a2d728f/module.json",
   "packs": [
     {
       "name": "pf1-untamed",
